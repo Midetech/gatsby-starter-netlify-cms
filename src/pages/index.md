@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: 'A Frontend Engineer based in Lagos, NIgeria'
+title: 'A Frontend Engineer based in Lagos, Nigeria'
 image: /img/IMG_0054.JPG
 heading: Great coffee with a conscience
 subheading: Building scalable and maintainable web Apps for the next billion users!!!
