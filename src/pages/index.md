@@ -3,7 +3,7 @@ templateKey: index-page
 title: 'A Frontend Engineer based in Lagos, NIgeria'
 image: /img/IMG_0054.JPG
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Building scalable and maintainable web Apps for the next billion users!!!
 mainpitch:
   title: Why Mideveloper/>
   description: >
